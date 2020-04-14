@@ -1,4 +1,4 @@
-# ABsolute Immune Signal (ABIS) deconvolution
+# Enveda's private fork of ABsolute Immune Signal (ABIS) deconvolution
 
 This Shiny app performs absolute deconvolution on RNA-Seq and microarray data. It also contain a Gene Viewer page where the expression of a gene can be visualized across 29 immune cell types.
 
